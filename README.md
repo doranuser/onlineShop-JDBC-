@@ -5,10 +5,10 @@
 html、css、javascript、jsp<br><br>
 
 --後段端技術--<br>
-java、JDBC<br><br>
+java<br><br>
 
 --資料庫連接--<br>
-採用JDBC連接SQL 資料庫<br><br>
+採用JDBC連接SQL server資料庫<br><br>
 
 架構設計<br>
 1.會員管理<br>
