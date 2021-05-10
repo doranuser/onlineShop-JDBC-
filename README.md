@@ -8,7 +8,17 @@ html、css、javascript、jsp<br><br>
 java<br><br>
 
 --資料庫連接--<br>
-採用JDBC連接SQL server資料庫<br><br>
+採用JDBC連接SQL server資料庫<br>
+對應的table有用foreign key跟pk做關連起來<br><br>
+
+table 設計如下<br>
+cart<br>
+porder<br>
+porder_detile<br>
+porder_detile_log<br>
+customer<br>
+products<br>
+picture<br><br>
 
 架構設計<br>
 1.會員管理<br>
